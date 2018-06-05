@@ -15,7 +15,7 @@ MeGlass is an eyeglass dataset for eyeglass face recognition evaluation. All the
 
 `test` directory contains four lists corresponding to the four protocols in paper.
 
-|Dataset|Identity|Images|No-glass|Black-glass|
+|Dataset|Identity|Images|No-eyeglass|Black-eyeglass|
 |-|-|-|-|-|
 |MeGlass|1,710|47,917|14,832|33,085|
 |Testing set|1,710|6,840|3,420|3,420|
@@ -27,5 +27,5 @@ The naming rule is corresponding to the original MegaFace dataset.
 ## Acknowledgement
 The 3D face model fitting is based on [Xiangyu Zhu](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/)'s work.
 
-## Future Plans
+## Future plans
 More 3D face related works will be published.
