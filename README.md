@@ -1,7 +1,7 @@
 ## Intro
 MeGlass is an eyeglass dataset for eyeglass face recognition evaluation. All the face images are selected and cleaned from MegaFace.
 
-|Name|Dataset Type|Link|
+|Name|Dataset type|Link|
 |-|-|-|
 |MeGlass_120x120.zip|Cropped|[Google Drive](https://drive.google.com/file/d/1V0c8p6MOlSFY5R-Hu9LxYZYLXd8B8j9q/view?usp=sharing) or [Baidu Yun](https://pan.baidu.com/s/1QPGi22RaNWJrV1w5wNbSkg), 335.8M|
 |MeGlass_ori.zip|Origin|[Baidu Yun](https://pan.baidu.com/s/17EBZz3LkQzyn44VL45udTg), 13.3G|
@@ -28,4 +28,4 @@ The naming rule is corresponding to the original MegaFace dataset.
 The 3D face model fitting is based on [Xiangyu Zhu](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/)'s work.
 
 ## Future Plans
-More 3D face related work will be published.
+More 3D face related works will be published.
