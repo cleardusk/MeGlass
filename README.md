@@ -17,5 +17,5 @@ MeGlass is an eyeglass dataset for eyeglass face recognition evaluation. ALl the
 
 
 ### Identity parsing rule
-Take one filename `10032527@N08_identity_4@2897031059_1.jpg` for example. The string before the second `@` makes one face image's identity.
+Take one filename `10032527@N08_identity_4@2897031059_1.jpg` for example, the string before the second `@` makes one face image's identity.
 The naming rule is corresponding to the original MegaFace dataset.
