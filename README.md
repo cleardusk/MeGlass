@@ -27,8 +27,12 @@ More details are presented in paper [*Face Synthesis for Eyeglass-Robust Face Re
 
 ### Samples
 <p align="center">
-    <img src="samples/samples.jpg", width="600px">
+    <img src="samples/samples.jpg", width="800px">
 </p>
+
+### Dataset usage
+To build this dataset, we use eyeglass classifier, powerful face recognition model and manual labor to keep right the person identity and black eyeglass attribute.
+Therefore, MeGlass dataset can be used for face recognition (identification and verification), eyeglass detection, removal, generation tasks and so on.
 
 
 ## Identity parsing rule
@@ -38,5 +42,5 @@ The naming rule is corresponding to the original MegaFace dataset.
 ## Acknowledgement
 The 3D face model fitting is based on [Xiangyu Zhu](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/)'s work.
 
-## Future plans
-More 3D face related works will be published.
+## Citation
+If your research benefits from MeGlass, please cite it.
