@@ -3,7 +3,8 @@
 
 ## Intro
 This repo releases the MeGlass dataset in original paper.
-MeGlass is an eyeglass dataset for eyeglass face recognition evaluation. All the face images are selected and cleaned from MegaFace.
+MeGlass is an eyeglass dataset originaly designed for eyeglass face recognition evaluation. All the face images are selected 
+and cleaned from MegaFace. Each identity has at least two face images with eyeglass and two face images without eyeglass.
 More details are presented in paper [*Face Synthesis for Eyeglass-Robust Face Recognition*](https://arxiv.org/abs/1806.01196).
 
 |Name|Dataset type|Link|
@@ -30,7 +31,7 @@ More details are presented in paper [*Face Synthesis for Eyeglass-Robust Face Re
     <img src="samples/samples.jpg", width="800px">
 </p>
 
-### Dataset usage
+### Dataset usages
 To build this dataset, we use eyeglass classifier, powerful face recognition model and manual labor to keep right the person identity and black eyeglass attribute.
 Therefore, MeGlass dataset can be used for face recognition (identification and verification), eyeglass detection, removal, generation tasks and so on.
 
