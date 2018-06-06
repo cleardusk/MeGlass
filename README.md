@@ -1,4 +1,8 @@
+# Face Synthesis for Eyeglass-Robust Face Recognition
+[[ArXiv](https://arxiv.org/abs/1806.01196)]
+
 ## Intro
+This repo releases the MeGlass dataset in original paper.
 MeGlass is an eyeglass dataset for eyeglass face recognition evaluation. All the face images are selected and cleaned from MegaFace.
 More details are presented in paper [*Face Synthesis for Eyeglass-Robust Face Recognition*](https://arxiv.org/abs/1806.01196).
 
@@ -20,6 +24,12 @@ More details are presented in paper [*Face Synthesis for Eyeglass-Robust Face Re
 |-|-|-|-|-|
 |MeGlass|1,710|47,917|14,832|33,085|
 |Testing set|1,710|6,840|3,420|3,420|
+
+### Samples
+<p align="center">
+    <img src="samples/samples.jpg", width="600px">
+</p>
+
 
 ## Identity parsing rule
 Take one filename `10032527@N08_identity_4@2897031059_1.jpg` for example, the string before the second `@` makes one face image's identity.
