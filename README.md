@@ -44,4 +44,12 @@ The naming rule is corresponding to the original MegaFace dataset.
 The 3D face model fitting is based on [Xiangyu Zhu](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/)'s work.
 
 ## Citation
-If your research benefits from MeGlass, please cite it.
+If your research benefits from MeGlass, please cite it as 
+```
+@article{guo2018face,
+  title={Face Synthesis for Eyeglass-Robust Face Recognition},
+  author={Guo, Jianzhu and Zhu, Xiangyu and Lei, Zhen and Li, Stan Z},
+  journal={arXiv preprint arXiv:1806.01196},
+  year={2018}
+}
+```
