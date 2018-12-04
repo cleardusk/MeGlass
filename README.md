@@ -21,7 +21,7 @@ More details are presented in paper [*Face Synthesis for Eyeglass-Robust Face Re
 
 `test` directory contains four lists corresponding to the four protocols in paper.
 
-|Dataset|Identity|Images|No-eyeglass|Black-eyeglass|
+|Dataset|Identity|Images|Black-eyeglass|No-eyeglass|
 |-|-|-|-|-|
 |MeGlass|1,710|47,917|14,832|33,085|
 |Testing set|1,710|6,840|3,420|3,420|
